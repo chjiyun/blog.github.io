@@ -72,13 +72,6 @@
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/tags/RegExp/</loc>
-        <lastmod>2017-12-10T08:44:55.099Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://me.chjiyun.com/tags/%E7%99%BE%E5%BA%A6%E8%9C%98%E8%9B%9B/</loc>
         <lastmod>2017-12-15T04:36:38.026Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,13 +88,6 @@
     <url>
         <loc>https://me.chjiyun.com/tags/SEO/</loc>
         <lastmod>2017-12-15T04:36:38.026Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://me.chjiyun.com/tags/Markdown/</loc>
-        <lastmod>2018-03-16T15:46:19.478Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -151,6 +137,20 @@
     <url>
         <loc>https://me.chjiyun.com/tags/Array%E6%96%B9%E6%B3%95/</loc>
         <lastmod>2019-02-17T16:06:03.919Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/tags/Markdown/</loc>
+        <lastmod>2019-02-23T06:13:38.354Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/tags/RegExp/</loc>
+        <lastmod>2019-02-24T06:58:54.640Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
