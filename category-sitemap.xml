@@ -84,13 +84,6 @@
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/categories/JavaScript/Array/</loc>
-        <lastmod>2019-02-17T16:06:03.919Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://me.chjiyun.com/categories/document/</loc>
         <lastmod>2019-02-23T06:13:38.354Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -98,15 +91,22 @@
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/categories/JavaScript/</loc>
+        <loc>https://me.chjiyun.com/categories/JavaScript/RegExp/</loc>
         <lastmod>2019-02-24T06:58:54.640Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/categories/JavaScript/RegExp/</loc>
-        <lastmod>2019-02-24T06:58:54.640Z</lastmod>
+        <loc>https://me.chjiyun.com/categories/JavaScript/</loc>
+        <lastmod>2019-08-03T08:30:48.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/categories/JavaScript/Array/</loc>
+        <lastmod>2019-08-03T08:30:48.270Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

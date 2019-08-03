@@ -37,13 +37,6 @@
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/tags/centos/</loc>
-        <lastmod>2017-11-25T07:55:04.834Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://me.chjiyun.com/tags/vagrant/</loc>
         <lastmod>2017-11-25T07:55:04.834Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -52,6 +45,13 @@
 
     <url>
         <loc>https://me.chjiyun.com/tags/virtualbox/</loc>
+        <lastmod>2017-11-25T07:55:04.834Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/tags/centos/</loc>
         <lastmod>2017-11-25T07:55:04.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -135,13 +135,6 @@
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/tags/Array%E6%96%B9%E6%B3%95/</loc>
-        <lastmod>2019-02-17T16:06:03.919Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://me.chjiyun.com/tags/Markdown/</loc>
         <lastmod>2019-02-23T06:13:38.354Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,6 +144,13 @@
     <url>
         <loc>https://me.chjiyun.com/tags/RegExp/</loc>
         <lastmod>2019-02-24T06:58:54.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/tags/Array%E6%96%B9%E6%B3%95/</loc>
+        <lastmod>2019-08-03T08:30:48.270Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
