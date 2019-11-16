@@ -37,13 +37,6 @@
     </url>
 
     <url>
-        <loc>https://me.chjiyun.com/tags/centos/</loc>
-        <lastmod>2017-11-25T07:55:04.834Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://me.chjiyun.com/tags/vagrant/</loc>
         <lastmod>2017-11-25T07:55:04.834Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -158,6 +151,20 @@
     <url>
         <loc>https://me.chjiyun.com/tags/canvas/</loc>
         <lastmod>2019-08-23T17:58:08.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/tags/centos/</loc>
+        <lastmod>2019-11-16T14:57:59.373Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://me.chjiyun.com/tags/%E9%83%A8%E7%BD%B2/</loc>
+        <lastmod>2019-11-16T14:57:59.373Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

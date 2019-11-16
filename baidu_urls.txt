@@ -1,1 +1,1 @@
-https://me.chjiyun.com/2019/08/24/利用canvas拼接图片并导出或上传/
+https://me.chjiyun.com/2019/11/16/centos7部署Node开发环境/
